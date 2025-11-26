@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import { navigationLinkType } from "./navigation/navigation-type";
+
+export const schemaTypes = [navigationLinkType]
