@@ -11,6 +11,6 @@ export default defineCliConfig({
      * Learn more at https://www.sanity.io/docs/cli#auto-updates
      */
     appId: process.env.APP_ID,
-    autoUpdates: true,
+    autoUpdates: false,
   }
 })
